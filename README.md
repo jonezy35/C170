@@ -1,2 +1,3 @@
 # College
-College Notes
+
+### This is a repository for my collective college notes per class
