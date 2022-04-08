@@ -1,3 +1,3 @@
 # College
 
-### This is a repository for my collective college notes per class
+### This is a repository for my college notes about C170 - Data Management & Applications
